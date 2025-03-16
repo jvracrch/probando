@@ -1,9 +1,0 @@
-[
-    {
-        "id": 1,
-        "title": "Ejemplo de Apunte",
-        "content": "# Este es un apunte de ejemplo\n\nPuedes escribir en **Markdown** para darle formato al texto.\n\n- Item 1\n- Item 2\n- Item 3",
-        "categories": ["Ejemplo", "Markdown"],
-        "tags": ["formato", "prueba"]
-    }
-]
